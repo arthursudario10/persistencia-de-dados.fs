@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "O senhor dos anéis",
+    "autor": "J.R.R",
+    "genero": "Fantasia",
+    "ano": 1954,
+    "lido": true
+  },
+  {
+    "titulo": "O Diário de um banana",
+    "autor": "Jeff Kinney",
+    "genero": "Comédia",
+    "ano": 2008,
+    "lido": true
+  },
+  {
+    "titulo": "It: a coisa",
+    "autor": "Stephen King",
+    "genero": "Terror",
+    "ano": 1986,
+    "lido": false
+  }
+]
